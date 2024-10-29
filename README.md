@@ -1,4 +1,4 @@
-# **Project Title: Sofer is Better: Tweaking Quantum Dropout to Enhance Quantum Neural Network Trainability**
+# **Sofer is Better: Tweaking Quantum Dropout to Enhance Quantum Neural Network Trainability**
 
 This project implements soft dropout for quantum neural networks (QNN). Soft dropout is a technique used to improve the generalization of neural networks by randomly dropping units during training.
 
