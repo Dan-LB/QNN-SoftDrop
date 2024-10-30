@@ -37,10 +37,11 @@ To set up the environment and install all necessary dependencies, follow these s
 
 The project includes a series of experiments to evaluate the effectiveness of the soft dropout method in enhancing QNN performance. Each experiment tests different configurations of the dropout rate, network architecture, and training settings.
 
-To reproduce the experiments:
+To reproduce the main experiment:
 
 1. Follow the setup and installation instructions.
-2. Run the provided scripts in the `regression_single.py` file or any other relevant experiment scripts to generate results. You can modify the parameter "softness" and "probability" according to number used in the paper to test different configurations.
+2. Run the provided scripts in the `regression_single.py` file. You can modify the parameter "softness" and "probability" according to number used in the paper to test different configurations. It is also possible to modify the dropout strategy.
 
-After running the experiments, results will be stored in the `results` folder for easy access and analysis. Key metrics and visualizations of the results will be available here to help interpret the effects of soft dropout on QNN trainability.
+After running the experiments, results will be stored in the `results` folder for easy access and analysis.
 
+The plots shown in Figure 4 and Figure 5 can be obtained by the corresponding notebooks.
