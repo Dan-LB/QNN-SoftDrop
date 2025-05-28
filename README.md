@@ -164,4 +164,17 @@ After running the experiments, results will be stored in the `results` folder fo
 The plots shown in Figure 4 and Figure 5 can be obtained by the corresponding notebooks.
 
 ## Cite this work
-Work in progress
+## 📖 Citation
+
+If you use this work in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{lizziobosco2025softer,
+  title={Softer is Better: Tweaking Quantum Dropout to Enhance Quantum Neural Network Trainability},
+  author={Lizzio Bosco, Daniele and Romanello, Riccardo and Serra, Giuseppe and Piazza, Carla},
+  booktitle={2025 International Conference on Quantum Communications, Networking, and Computing (QCNC)},
+  pages={442--449},
+  year={2025},
+  organization={IEEE}
+}
+```
